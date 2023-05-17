@@ -1,0 +1,7 @@
+https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+
+||| Ne pas oublier de faire : |||
+|||                           |||
+|||   " ng serve --open "     |||
+
+http://localhost:4200/
